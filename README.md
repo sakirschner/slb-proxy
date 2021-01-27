@@ -1,6 +1,6 @@
 # student-leader-board-api-proxy
 
-NGINX proxy app
+NGINX proxy app for [slb-api](https://github.com/sakirschner/slb-api)
 
 ## Usage
 
